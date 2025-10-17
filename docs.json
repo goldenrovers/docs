@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
-  "name": "Mint Starter Kit",
+  "name": "Golden Rovers Wiki",
   "colors": {
     "primary": "#FFC600",
     "light": "#07C983",
